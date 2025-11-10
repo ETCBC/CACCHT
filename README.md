@@ -10,6 +10,7 @@ We are working on the following datasets:
 - [The ETCBC Syriac Corpus](https://github.com/etcbc/syriac)
 - [The Samaritan Pentateuch](https://github.com/DT-UCPH/sp)
 - [The Copenhagen Ugaritic Corpus](https://github.com/dt-ucph/cuc)
+- [The Septuagint](https://github.com/CenterBLC/MT-LXX)
 
 ## Text-Fabric
 All the datasets are [Text-Fabric](https://annotation.github.io/text-fabric/tf/) datasets and can be accessed and used with Python.
