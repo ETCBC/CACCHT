@@ -10,6 +10,7 @@ We are working on the following datasets:
 - [The ETCBC Syriac Corpus](https://github.com/etcbc/syriac)
 - [The Samaritan Pentateuch](https://github.com/DT-UCPH/sp)
 - [The Copenhagen Ugaritic Corpus](https://github.com/dt-ucph/cuc)
+- [The ETCBC Targum Corpus](https://github.com/ETCBC/targum)
 - [The Septuagint](https://github.com/CenterBLC/MT-LXX)
 
 ## Text-Fabric
